@@ -1,9 +1,9 @@
-const Letter = function(char, guessed) {
+const Letter = function(char) {
 	this.char = char;
-	this.guessed = guessed;
+	this.guessed = false;
 
 	// returns the letter if correctly guessed, or an underscore as a placeholder
-	this.returnGuess = function() {
+	this.returnLetter = function() {
 		if(this.guessed) {
 			return this.char;
 		}
@@ -17,3 +17,5 @@ const Letter = function(char, guessed) {
 		}
 	};
 };
+
+exports Letter;
