@@ -19,3 +19,5 @@ const Word = function(gameWord) {
 		});
 	}
 };
+
+exports Word;
