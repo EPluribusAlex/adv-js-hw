@@ -1,0 +1,20 @@
+{
+  "name": "adv-js-hw",
+  "version": "1.0.0",
+  "description": "js constructor hangman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EPluribusAlex/adv-js-hw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EPluribusAlex/adv-js-hw/issues"
+  },
+  "homepage": "https://github.com/EPluribusAlex/adv-js-hw#readme"
+}
